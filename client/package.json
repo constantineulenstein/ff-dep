@@ -1,6 +1,7 @@
 {
   "name": "react-package",
   "homepage": "https://constantineulenstein.github.io/ff-dep",
+  "type": "module",
   "scripts": {
     "predeploy": "rm -f dist/*.js dist/*.html dist/*.css dist/*.map && npm run build",
     "deploy": "gh-pages -d dist",
