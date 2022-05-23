@@ -1,0 +1,316 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "2423",
+                "short_name": "2423",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Old Middlefield Way",
+                "short_name": "Old Middlefield Way",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Mountain View",
+                "short_name": "Mountain View",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Clara County",
+                "short_name": "Santa Clara County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "94043",
+                "short_name": "94043",
+                "types": [
+                    "postal_code"
+                ]
+            },
+            {
+                "long_name": "2348",
+                "short_name": "2348",
+                "types": [
+                    "postal_code_suffix"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">2423 Old Middlefield Way</span>, <span class=\"locality\">Mountain View</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">94043-2348</span>, <span class=\"country-name\">USA</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2423 Old Middlefield Way, Mountain View, CA 94043, USA",
+        "formatted_phone_number": "(650) 967-7477",
+        "geometry": {
+            "location": {
+                "lat": 37.4144944,
+                "lng": -122.0980334
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.41590138029149,
+                    "lng": -122.0967448697085
+                },
+                "southwest": {
+                    "lat": 37.41320341970849,
+                    "lng": -122.0994428302915
+                }
+            }
+        },
+        "name": "Bajis Cafe",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:00 AM \u2013 2:00 PM",
+                "Tuesday: 7:00 AM \u2013 2:00 PM",
+                "Wednesday: 7:00 AM \u2013 2:00 PM",
+                "Thursday: 7:00 AM \u2013 2:00 PM",
+                "Friday: 7:00 AM \u2013 2:00 PM",
+                "Saturday: 7:00 AM \u2013 2:00 PM",
+                "Sunday: 7:00 AM \u2013 2:00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118376045628558011999\">Bajis Cafe</a>"
+                ],
+                "photo_reference": "Aap_uEASHJP2HE5hPhs4Yl9zvQ7evRQkUS_qHYqYgK0lLj18_7ZgXyroBTU2ZM80_INLHqu1_V1A28RY4ZcyubZzRtYAZgbWtZEUgmWcjlbSF_S89lG7Nbe98OsIGq0E3oHujz06dyRn-AdZb2whhIMaYz_oJf0c5bYzVCRVaox8netAJdmB",
+                "width": 1500
+            },
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118376045628558011999\">Bajis Cafe</a>"
+                ],
+                "photo_reference": "Aap_uECvRf5LEub-m-370UWb1peZ6u6au8up_NAAs0AdKchnrBRlGNe9ZUqCkZqupfid03z4HqCtZiPT3HLK10Fudqp2AizOmwGvuG8mPlBx68hK_jXFSNTUnVTFtkXXxnZhzJtFty5HLYFPOr9DOLv9bJmXZpd3nT8d58j3-69ay-MY5NMs",
+                "width": 1800
+            },
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109072435332370961533\">Bill Strathearn</a>"
+                ],
+                "photo_reference": "Aap_uEDdUaWoO8rkvHgtd_BydIvA61u_BhRfSrdLn3dV-vOPG0UJ34C_0nXu-U-L9C92htKRl0kLurvylQMXimH45rHYPnWPx1SSACUlxXp_AT8gmP3-h7C3et5oeMm-xHIY6hvw2V-9ppkHZXUJxRI5lMrCVqubIL0djVZUedY7U8uec8XW",
+                "width": 1600
+            },
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118376045628558011999\">Bajis Cafe</a>"
+                ],
+                "photo_reference": "Aap_uEC8XlAYsCFYQqUkK5mEjIK92BVQtyIM_CSojMSP5abeILD3_gIs34cP9Z-3hxeguBi1c6RXh2TFxmMVjqQ8QNdXlhLTFd5Jiwk2-MdgfTaEPf58VLAROLz5g2vSgGmqvd6OecGO_rkQQEywU9JqsrADLw__PDwe7uOm63NzmagwJZC8",
+                "width": 1500
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118430726648511021467\">Jim Blinn</a>"
+                ],
+                "photo_reference": "Aap_uECbOx5KIlO3qSibqA4V3T45YR_VIkgwXVdtYcYMhqt4V3cz4yCwddMwXwi06zFZ4wsed4xnY_dDFl6xBXhqNEZSC8xOEGSUCv1xUZN6cVPnrOhGwD1Ra8mw2gDxzzavuZNud5L1wlGtcZsP-3cI1QXwLeyTnwKDOE9_4WpEzwZrhX6p",
+                "width": 4032
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116583206901397637450\">Richard Frock</a>"
+                ],
+                "photo_reference": "Aap_uEBOzHpuIMflGWOv4G8IakxO_jrYXKMmUoIRoEYARLAuqDfRB4GR0wDW9L9WafsoHd_8gG0lllC2DpdxQm7P27ZEYZt4o9mzuxs1gKXt9sHTznsBTSB-sIAAATaoaGVyCxIW4aKx3LMtfKqvGzvpuRfjKaO_KkKFRbxm-c1DBstcuxc",
+                "width": 4032
+            },
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118376045628558011999\">Bajis Cafe</a>"
+                ],
+                "photo_reference": "Aap_uEAJEg9piUKS8skC1nDvtqaFt42Wm-oCpC4oVaq9WfCD83zVi38MkbEl_-qfgvC5B4oz7jBu_ZYcQAuLz4QlaN9aAmqfoAW9928vofkvbFk6W2JwuNe3xG36J0tF5petwttaf7CD9i8yee3b6-DIW8MTdux10cBQ570Vlb8tSQGheNuz",
+                "width": 1800
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116370847898776376364\">Michael Xu</a>"
+                ],
+                "photo_reference": "Aap_uEB3v2CsHSVWuefLTRED3vfcFv2UblHiaC7pwIZsymo-2C0Ns2Uv9yRowDwCrfZRn_eT9QGNmjm0cc4NW5GafIUclw-4g5CN6XsKk7Kg8xz7iw0-qqkhSt2_9yLm0RUrHenfDW2GXYNT6pdptdTjY3njuplUxUv11hSqx96qN7pWieLS",
+                "width": 4032
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118430726648511021467\">Jim Blinn</a>"
+                ],
+                "photo_reference": "Aap_uEB9Kmk_eiNr4N5nL7ZYPvpc6KSfxcSPtV60kGH4-nMrDOk3YW5htA0Z_z7jOQFETi7QDaRO5YogwlrD1S85fN8Cy-cA403KJ1M_0dzt4BFrDzVJNYQnBWXXhVwOPq0Q4B0m7XDTuo5jYpZK3nuWau8O66VXSnNS2KcKr4IoIggpxSbK",
+                "width": 4032
+            },
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118376045628558011999\">Bajis Cafe</a>"
+                ],
+                "photo_reference": "Aap_uEDuqHOje3Vm81LWTUnIib-B8Kc-XHrvwA0twPwCNXszkBY2Rw552N3BgKZnyfejshKTswKMQTV2DsbrTQjrW_UDFbFNNHU3bQJakLFO1aNInbSQNvISayAuDl5DrirbhR5x8cLWVb7d4mQ-sRqseyS3TcYZv6Owf69BRlcK0YTsE-eF",
+                "width": 1500
+            }
+        ],
+        "plus_code": {
+            "compound_code": "CW72+QQ Mountain View, CA, USA",
+            "global_code": "849VCW72+QQ"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reviews": [
+            {
+                "author_name": "Nichole Carder",
+                "author_url": "https://www.google.com/maps/contrib/118166717026281261605/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzziUJ8EE4ftSTfwbWmZfitiYGZXSUoHAf27-KI=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "in the last week",
+                "text": "Staff is always SO friendly. Been coming for years and can't ever pass up the Funhouse Hangover. Perfect every time and 110% worth the ~$20.",
+                "time": 1650144419
+            },
+            {
+                "author_name": "Eric Hsiang",
+                "author_url": "https://www.google.com/maps/contrib/106890628799685691744/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhLL-sFEhqkq9x9wmYkCQY6x5bhJtT5Jtl8f-pZYg=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "6 months ago",
+                "text": "Great small cafe. Great service with tasty food. Definitely a pleasant surprise. Reminds me very much of an old fashioned diner. It may just be an old fashioned diner. Would come back",
+                "time": 1632344950
+            },
+            {
+                "author_name": "Cheryl Bains",
+                "author_url": "https://www.google.com/maps/contrib/104663091018658973606/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjbHJLFKCpQA1Fo6o2uqBLmjBMVUqZo8MfEYnlETw=s128-c0x00000000-cc-rp-mo",
+                "rating": 4,
+                "relative_time_description": "a year ago",
+                "text": "Food is fresh",
+                "time": 1599536713
+            },
+            {
+                "author_name": "Andrea M.",
+                "author_url": "https://www.google.com/maps/contrib/105845859193855281657/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GigTHxagU3XIHtkBAtVu38rGhAxjZ916dPg_BaEbIM=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 5,
+                "relative_time_description": "a year ago",
+                "text": "Excellent service and food!",
+                "time": 1600037419
+            },
+            {
+                "author_name": "Raz Lev",
+                "author_url": "https://www.google.com/maps/contrib/100813844768874977117/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjpoLx_F-sVxwcFFjN10RDAGQw-HOoHESc_rJqxpAU=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 5,
+                "relative_time_description": "a month ago",
+                "text": "Fun menu with everything you'd want in a diner. Plenty of options for kids. The service is just outstanding, super friendly, attentive and helpful.",
+                "time": 1647023451
+            }
+        ],
+        "url": "https://maps.google.com/?cid=377138123651348988",
+        "user_ratings_total": 979,
+        "website": "https://bajiscafe.com/"
+    },
+    "status": "OK"
+}

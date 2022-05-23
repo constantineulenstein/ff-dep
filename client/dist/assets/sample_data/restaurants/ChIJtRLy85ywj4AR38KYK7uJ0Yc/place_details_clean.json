@@ -1,0 +1,191 @@
+{
+    "name": "Hong Kong Restaurant",
+    "place_id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc",
+    "formatted_address": "3691 El Camino Real, Palo Alto, CA 94306, USA",
+    "formatted_phone_number": "(650) 251-9062",
+    "location_lat": 37.4184801,
+    "location_lng": -122.1328666,
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 9:00 PM",
+            "Tuesday: 11:00 AM \u2013 9:00 PM",
+            "Wednesday: 11:00 AM \u2013 9:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 11:00 AM \u2013 9:00 PM",
+            "Sunday: 11:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "google_maps_url": "https://maps.google.com/?cid=9786754902236119775",
+    "website": null,
+    "price_level": 1,
+    "rating": 4.1,
+    "user_ratings_total": 466,
+    "reviews": [
+        {
+            "author_name": "penny Zhou",
+            "author_url": "https://www.google.com/maps/contrib/104182901265463487083/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gg1HIdQ_G7d32thGnlyuIxqVsg2uM5wpKUbaGR6pQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Hidden gem in PA & MV. Resumed dine in at this place, the dishes (that I normally order) still remain high quality with a decent price, compare with other local Chinese restaurants, who raised price sky high. The service still remains high quality\u2026 plate changing after crab dish. And the don\u2019t automatically add tips, which others are forcing 18-20% of tips regardless # of dinners. Of course we gave 20% tips for the lunch because of satisfaction. Highly recommend live crab with salty eggs/\u54b8\u86cb\u9ec4\u73cd\u5b9d\ud83e\udd80\ufe0f. The size of the crab is so big, my mom even asked is this one crab or one and half\ud83d\ude02. \u5e72\u7092\u725b\u6cb3is not oily as others which is good too. We will definitely do more dine-in or take out to support this restaurant. Stay in the business\ud83d\ude4f",
+            "time": 1648955906
+        },
+        {
+            "author_name": "Josephine Wong",
+            "author_url": "https://www.google.com/maps/contrib/103578589385794506302/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzwGg4n7t5W8-_hwRPuCylkmTy7hnddQLjOgBBp=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "This is the first time we came to this restaurant at this location. Pleasantly surprised ..Authentic Cantonese cookings. Tasty food.Good value.Good quality.",
+            "time": 1624837465
+        },
+        {
+            "author_name": "Allen Podell",
+            "author_url": "https://www.google.com/maps/contrib/113396784740909374466/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhVtBUngk5Zx-aeZNwu448EedFIpC2_zJH4VlXPr_8=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "wor wonton is a meal, and the dumplings are very good. add a side dish, and you have a good dinner and lunch. very reliable. this will be a regular for us",
+            "time": 1647449276
+        },
+        {
+            "author_name": "Stephanie Wong",
+            "author_url": "https://www.google.com/maps/contrib/104279636003294426288/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GitmDmF1pJiMXqezpxEYLq_MRgqz3-Z9de83IhGGQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "Great prices.   However portions vary bu the dish you order.   I.e.  chow fun is generous., but squid portion is very small.   Hit and miss with portion size.",
+            "time": 1628045986
+        },
+        {
+            "author_name": "Maritza Major",
+            "author_url": "https://www.google.com/maps/contrib/118409625260878601979/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyIfI6S2nz3XfPyXLRwNrXdFFxN-xcQG_XGnWli=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We just discovered this place recently. The food is always delicious and the service is fast for to go orders. Love the beef chow fun with bok choy, the seasonal greens, and the walnut prawns.",
+            "time": 1640646227
+        }
+    ],
+    "img_dict": {
+        "image_10": [
+            "food",
+            "edamame"
+        ],
+        "image_8": [
+            "food",
+            "hot_and_sour_soup"
+        ],
+        "image_9": [
+            "food",
+            "grilled_salmon"
+        ],
+        "image_2": [
+            "food",
+            "lobster_roll_sandwich"
+        ],
+        "image_3": [
+            "ambience",
+            "cantine"
+        ],
+        "image_1": [
+            "ambience",
+            "food_truck"
+        ],
+        "image_4": [
+            "food",
+            "greek_salad"
+        ],
+        "image_5": [
+            "food",
+            "grilled_salmon"
+        ],
+        "image_7": [
+            "food",
+            "scallops"
+        ],
+        "image_6": [
+            "food",
+            "huevos_rancheros"
+        ]
+    }
+}

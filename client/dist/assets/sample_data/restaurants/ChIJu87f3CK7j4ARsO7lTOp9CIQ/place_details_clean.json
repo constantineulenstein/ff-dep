@@ -1,0 +1,141 @@
+{
+    "name": "Lobo's Taqueria",
+    "place_id": "ChIJu87f3CK7j4ARsO7lTOp9CIQ",
+    "formatted_address": "1950 Old Middlefield Way, Mountain View, CA 94043, USA",
+    "formatted_phone_number": "(650) 495-0569",
+    "location_lat": 37.4146515,
+    "location_lng": -122.0896286,
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 10:00 AM \u2013 6:30 PM"
+        ]
+    },
+    "google_maps_url": "https://maps.google.com/?cid=9513992658086129328",
+    "website": "https://lobostaqueria.com/",
+    "price_level": null,
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+        {
+            "author_name": "Alexander Zhang",
+            "author_url": "https://www.google.com/maps/contrib/100141273980570049856/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxl8XO4fEZ5NrKEDVq2zukEezwfrU2SeXekxmvx=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "There are probably my favorite tacos around mountain view. I used to go to El Conrro a lot but these are going to be my new go to. Great variety of meat, tortilla was crispy but not dry, meat was done perfectly, salsa was also great. 10/10",
+            "time": 1639888703
+        },
+        {
+            "author_name": "Shawn Lee",
+            "author_url": "https://www.google.com/maps/contrib/110129538182699824973/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwQAdQyYUJEAvNDX2utX4NoQUhn0v2Kaa1bgTCD=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Regular burrito came with good amount of meet. Came with a side of sauce and limes.",
+            "time": 1636921043
+        }
+    ],
+    "img_dict": {
+        "image_2": [
+            "ambience",
+            "food_truck"
+        ],
+        "image_3": [
+            "food",
+            "chicken_quesadilla"
+        ],
+        "image_1": [
+            "food",
+            "beet_salad"
+        ],
+        "image_4": [
+            "ambience",
+            "menu_board"
+        ],
+        "image_5": [
+            "ambience",
+            "food_truck"
+        ]
+    }
+}

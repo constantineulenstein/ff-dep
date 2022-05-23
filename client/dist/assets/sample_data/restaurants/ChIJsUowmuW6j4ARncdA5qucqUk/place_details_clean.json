@@ -1,0 +1,191 @@
+{
+    "name": "Starbucks",
+    "place_id": "ChIJsUowmuW6j4ARncdA5qucqUk",
+    "formatted_address": "2000 El Camino Real, Palo Alto, CA 94306, USA",
+    "formatted_phone_number": "(650) 320-8125",
+    "location_lat": 37.427381,
+    "location_lng": -122.149213,
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 5:00 PM",
+            "Tuesday: 5:00 AM \u2013 5:00 PM",
+            "Wednesday: 5:00 AM \u2013 5:00 PM",
+            "Thursday: 5:00 AM \u2013 5:00 PM",
+            "Friday: 5:00 AM \u2013 5:00 PM",
+            "Saturday: 6:00 AM \u2013 5:00 PM",
+            "Sunday: 6:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "google_maps_url": "https://maps.google.com/?cid=5307945897949185949",
+    "website": "https://www.starbucks.com/store-locator/store/12062/",
+    "price_level": 2,
+    "rating": 3.8,
+    "user_ratings_total": 433,
+    "reviews": [
+        {
+            "author_name": "Teresa Garcia",
+            "author_url": "https://www.google.com/maps/contrib/107930916986767080603/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyjrl1XY_AiN3AglPhD_z089RrhlKCmxr-Uq-Bw=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "Asked to put on my mask. Actually I forgot. Was going to go get it but NO signs on doors saying it was required. So I decided to just leave!",
+            "time": 1635361550
+        },
+        {
+            "author_name": "Luis Del Aguila",
+            "author_url": "https://www.google.com/maps/contrib/106131783507966942941/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GizSeJzewpgMn-hYtH48iLcEt0I5IedluSF8siBpUM=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "NO BATHROOM?\nTHIS LOCATION BLOWS\nLook at the ONE STARS smh.\nUNFRIENDLY\nI got to say the Manager is nice and capable but when he is not there forget about it!",
+            "time": 1619478751
+        },
+        {
+            "author_name": "jaileen chavez",
+            "author_url": "https://www.google.com/maps/contrib/109020614392194888352/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJz_j2BOkVxzPwr1MiKoEJdjKHwyTrvK2E8FNkRErw=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "I came to this Starbucks at 3:30 and it was closed there was no one inside, even though online it states that they closes at 5, very unprofessional.",
+            "time": 1643931969
+        },
+        {
+            "author_name": "Jennifer O",
+            "author_url": "https://www.google.com/maps/contrib/107882393594436916600/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy4K2cHnXeRcbLMBi5SMw8668NNfTBWBq4KnIA9=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Horrendous service at this location yet again. I ordered cold brew through the app. I had my friend go to pick it up for me and the person at the pickup counter says they are out of cold brew. They proceed to ignore my friend for 5 mins and when he tries to get their attention to get another drink or a refund, they say \"just a minute.\" My order was supposed to be ready 10 mins prior at this point. Another 5 mins pass, and I have to walk over there myself (~12 min walk) to deal with it because the baristas are still ignoring my friend. They make us wait in the line to order a drink for another 10 mins to get my refund. How is this place even in business??? I will never order here again. Even if gas prices are $7/gal, I will drive to a different location instead of walking to this s*** show. They practically ruined my Sunday with their HORRENDOUS customer service. I have had at least four very bad experiences with customer service at this Starbucks location now (none with any of the other Starbucks locations in this area).",
+            "time": 1647199753
+        },
+        {
+            "author_name": "Anthony Velasquez",
+            "author_url": "https://www.google.com/maps/contrib/110042279076754600598/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwiTe4Df-EB8Xu8feYgNU3sz7rxQGv2p8vvsrau=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Service is quick, and the coffee is what you would expect from a Starbucks.",
+            "time": 1633284549
+        }
+    ],
+    "img_dict": {
+        "image_10": [
+            "ambience",
+            "restaurant_terrace"
+        ],
+        "image_8": [
+            "ambience",
+            "brauhaus"
+        ],
+        "image_9": [
+            "ambience",
+            "restaurant_terrace"
+        ],
+        "image_2": [
+            "ambience",
+            "imbiss"
+        ],
+        "image_3": [
+            "food",
+            "oysters"
+        ],
+        "image_1": [
+            "ambience",
+            "restaurant"
+        ],
+        "image_4": [
+            "drinks",
+            "beer"
+        ],
+        "image_5": [
+            "ambience",
+            "imbiss"
+        ],
+        "image_7": [
+            "drinks",
+            "milkshake"
+        ],
+        "image_6": [
+            "ambience",
+            "restaurant_exterior"
+        ]
+    }
+}

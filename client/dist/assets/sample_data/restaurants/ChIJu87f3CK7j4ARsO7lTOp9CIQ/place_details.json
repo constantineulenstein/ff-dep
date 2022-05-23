@@ -1,0 +1,245 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "1950",
+                "short_name": "1950",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Old Middlefield Way",
+                "short_name": "Old Middlefield Way",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Mountain View",
+                "short_name": "Mountain View",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Clara County",
+                "short_name": "Santa Clara County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "94043",
+                "short_name": "94043",
+                "types": [
+                    "postal_code"
+                ]
+            },
+            {
+                "long_name": "2544",
+                "short_name": "2544",
+                "types": [
+                    "postal_code_suffix"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">1950 Old Middlefield Way</span>, <span class=\"locality\">Mountain View</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">94043-2544</span>, <span class=\"country-name\">USA</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1950 Old Middlefield Way, Mountain View, CA 94043, USA",
+        "formatted_phone_number": "(650) 495-0569",
+        "geometry": {
+            "location": {
+                "lat": 37.4146515,
+                "lng": -122.0896286
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.41595478029149,
+                    "lng": -122.0883243697085
+                },
+                "southwest": {
+                    "lat": 37.41325681970849,
+                    "lng": -122.0910223302915
+                }
+            }
+        },
+        "name": "Lobo's Taqueria",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1830"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:00 AM \u2013 8:00 PM",
+                "Tuesday: 10:00 AM \u2013 8:00 PM",
+                "Wednesday: 10:00 AM \u2013 8:00 PM",
+                "Thursday: 10:00 AM \u2013 8:00 PM",
+                "Friday: 10:00 AM \u2013 8:00 PM",
+                "Saturday: 10:00 AM \u2013 8:00 PM",
+                "Sunday: 10:00 AM \u2013 6:30 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100141273980570049856\">Alexander Zhang</a>"
+                ],
+                "photo_reference": "Aap_uEDjZf6riQK7eg7ExeSCVnxnSIdoZIy3S2Ow7UUmvthGrigLVq4iyKB09oH43DwWy8CQDhoXbZiuR8_32Y20yJnJlF3BeQ9LC5IcfQlNJx-tmYMvfDjWKHedv8wXnXd0Zu7y2xi-6qgUTSqjPs_LvjlQjYmDetCq4ordz1ocFwl6PYk8",
+                "width": 720
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110129538182699824973\">Shawn Lee</a>"
+                ],
+                "photo_reference": "Aap_uEBTlKRe5Coyt-PMTqjQnDFTqN-Bw8PJ7hB1p_Ni7sUkP7qMOajtvYvp8V7v-t_1bmObHocvuSQhex6JQegMROnVDO9fUB3FB6C1IWGSk3e3vqMUPFJB97B3tw_tOxTaFmaDfo7zsn6t_bukdB07AbP_A1KZ-BmB06VycS8V74Xn5mip",
+                "width": 3024
+            },
+            {
+                "height": 1605,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110129538182699824973\">Shawn Lee</a>"
+                ],
+                "photo_reference": "Aap_uEBK6pSNJwizgzBLTUorzVB8bkMUk0M7zHf94xrKI2--Ma1y6j3-VNiAVlywHX1TUVZRidJXqRyrihMTWQVZchhkRkVRPXFtsxAf_JIeLtiqKIt4nsP-Ax7b9Oy8hMP2nv8f8dcvtSHDkhU4roeNABV1wTJXzw-DOzT6SIrejc7qGkuu",
+                "width": 2571
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110129538182699824973\">Shawn Lee</a>"
+                ],
+                "photo_reference": "Aap_uECH1OdNmvI-kOeMxtJ8s4ZrfMnaRRvoatoEA7RB0KzV5fTJGJRY-1N78N6gA02LMrAwjwtZkRZIKKBoD8XJGR2H22-6aA9OvDLm4UpjIJfkPUzSRGmFSZYW0Z7Wa3ylzR53qxgS_K0wRjhpbLePsd5HEMTJKw9DvpwWzP2OYKxr2h5K",
+                "width": 3024
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113305919995230455128\">Alex</a>"
+                ],
+                "photo_reference": "Aap_uEDKvlXipuN75L8rq_dvo6lK91zTCZ3mu6W4E3eaPsDrekL_8LDGSvGQs4aViNhEhWyTNd-P7IAjJ4SV7kuzkVqfXus6hFxtamMcSzDx9LAbbfRpp2xV72BOrsyb9owhFJZMM7CeSDR7a0Egp60ZbtJZyI_ql-vj6xGhmelt76YoRNw8",
+                "width": 4032
+            }
+        ],
+        "plus_code": {
+            "compound_code": "CW76+V4 Mountain View, CA, USA",
+            "global_code": "849VCW76+V4"
+        },
+        "rating": 5,
+        "reviews": [
+            {
+                "author_name": "Alexander Zhang",
+                "author_url": "https://www.google.com/maps/contrib/100141273980570049856/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxl8XO4fEZ5NrKEDVq2zukEezwfrU2SeXekxmvx=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "4 months ago",
+                "text": "There are probably my favorite tacos around mountain view. I used to go to El Conrro a lot but these are going to be my new go to. Great variety of meat, tortilla was crispy but not dry, meat was done perfectly, salsa was also great. 10/10",
+                "time": 1639888703
+            },
+            {
+                "author_name": "Shawn Lee",
+                "author_url": "https://www.google.com/maps/contrib/110129538182699824973/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwQAdQyYUJEAvNDX2utX4NoQUhn0v2Kaa1bgTCD=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 5,
+                "relative_time_description": "5 months ago",
+                "text": "Regular burrito came with good amount of meet. Came with a side of sauce and limes.",
+                "time": 1636921043
+            }
+        ],
+        "url": "https://maps.google.com/?cid=9513992658086129328",
+        "user_ratings_total": 2,
+        "website": "https://lobostaqueria.com/"
+    },
+    "status": "OK"
+}

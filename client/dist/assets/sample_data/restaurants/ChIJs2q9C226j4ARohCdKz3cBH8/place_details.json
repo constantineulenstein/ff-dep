@@ -1,0 +1,317 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "3962",
+                "short_name": "3962",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Middlefield Road",
+                "short_name": "Middlefield Rd",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Greenmeadow",
+                "short_name": "Greenmeadow",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Palo Alto",
+                "short_name": "Palo Alto",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Clara County",
+                "short_name": "Santa Clara County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "94303",
+                "short_name": "94303",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">3962 Middlefield Rd</span>, <span class=\"locality\">Palo Alto</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">94303</span>, <span class=\"country-name\">USA</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3962 Middlefield Rd, Palo Alto, CA 94303, USA",
+        "formatted_phone_number": "(650) 251-9646",
+        "geometry": {
+            "location": {
+                "lat": 37.4187362,
+                "lng": -122.1090666
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.42012073029149,
+                    "lng": -122.1077937697085
+                },
+                "southwest": {
+                    "lat": 37.4174227697085,
+                    "lng": -122.1104917302915
+                }
+            }
+        },
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 9:00 PM",
+                "Tuesday: 9:00 AM \u2013 9:00 PM",
+                "Wednesday: 9:00 AM \u2013 9:00 PM",
+                "Thursday: 9:00 AM \u2013 9:00 PM",
+                "Friday: 9:00 AM \u2013 9:00 PM",
+                "Saturday: 9:00 AM \u2013 8:00 PM",
+                "Sunday: 9:00 AM \u2013 8:00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 1936,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116283992269441778643\">ID Travis Heinze v. Williston, North Dakota</a>"
+                ],
+                "photo_reference": "Aap_uEAAhSVnxyz0FhL5SJGklJH9O26jSXWUAnPHn7q0gpDPf2a3YCHXDKNmBxmBxFNk1ROpfTbKqwbEvf3S5I9MPvlqfbxBIDxLRftNYwNGgBN17UR74TO9GYJjbPmo1f7eVmcgWVRf4SKs10ULiLx-aWM8soEdnw9KgTRbY83tZVOoonOX",
+                "width": 2592
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110713435669830483405\">B. MIchael McFarland</a>"
+                ],
+                "photo_reference": "Aap_uEAsyii4G1herthTj3oZrepQWKZw_ZjJEDqm-t4kdOmowAVFs_0M91N0eR5tUPGmbN9QfU3acRJDM4xOkOKfCwol5s97NEdQM8CVjESJI8gixV-K7AQg2z4mVsbV4u3NUzy3Skjx_gdTieYhPViHSClEo90O9qfDP8Kwawje-Koff4Y",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106870358401369754757\">CPS :</a>"
+                ],
+                "photo_reference": "Aap_uEANCwytfqS_taKlMI8rOlhT0VDQpcHj_llCj6ZhUjlfSNGICOOJEuKR2LY3NAOAr-DwjH88R66MQZLEZsmyOPwZcy-dIbyAuJSsmNbkKsX2w5aOldoM73sE6eZRQU4zO3k2j810JQDl73lPJr0gcDNGyPwSeb31dOcMlzB4sL6o_grS",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112381670198421030401\">Salim Parak</a>"
+                ],
+                "photo_reference": "Aap_uEAOJTLXwPObePTWmlB9qA5rs9OCKsGP2i1kU5JLz1fXM1Yc_7FcpU0lqf8IjrkFjuRLGZwHXq0RVxtNYrkf36BdaF2-fDBgZ-ynxTO1gq823i3dFC-oop_1sCJS6QFglUDnTHLjKz93Doh7DMjSBYm_JHjPVMYfdLp9L3-e_n9PHGHP",
+                "width": 3024
+            },
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100526571171452971403\">Yuri C</a>"
+                ],
+                "photo_reference": "Aap_uEDPuqT62isSghqpwOL8iHIWwAoEK7GLekQBac1yJ7uCFWdwRyzzEDi5ImG-MTXTszZVcsYcG2XUTfjgMDghiTu5JW1IKuvqvoUqZ8rWscFCyG_LA-VBb38tZv_OPhrksmW9grOaTkSP-ceM0Zxacayk25AikMICziIq3-CIwtfnVqI",
+                "width": 3264
+            },
+            {
+                "height": 4048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105283731077918951312\">Kiran kumar A</a>"
+                ],
+                "photo_reference": "Aap_uEDliiVeA20NGsg0SRukvaHWAk0ICWeJQKBV3yNSnegIDg6m3PyG_hDLk1d6sLnLLO9eTk6DctLa4uoR0OGobcFRtqCFUas46OUt2W31k4-YcnDkOLCGUnxUUWJBmN563ErdItMH4j7l5YVbSMm2m96JGwsja_v_X9n__k7Hnl9IwLz-",
+                "width": 3036
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110713435669830483405\">B. MIchael McFarland</a>"
+                ],
+                "photo_reference": "Aap_uEC40EcyJL4nMXGa73WbUWtfXTKtLpRiFhfaQpiBgYhOaxffGvXIkKc_tf67KnOGOyV_K3QLMKlw85DDwOJuDM_XlvKyAJO99Mac_ReMV2agOskOUnThJj8kPRaQNsslbbu8aNBM-Tu_-wUIqvJiuG9YtqmsmG3385mH34BIXL82FbQ",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114960052084243511323\">Coby Abilock</a>"
+                ],
+                "photo_reference": "Aap_uECV0gaIR8NFQ_BxP3-mfYWH5EgFnMawxpUlDAUohZ1Y7EZBfe1ifUgij6Ue0a9AhT3wSkoOZQgrkBJtH4qtinD0ATGJOnG9wQwEFBC0jrorDjWbXgQOOXoZfss8I1FGwxZwff9dSuYUc9-1zWlhn_WNAk8jP944uw3KdhQah7N_b0aG",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112381670198421030401\">Salim Parak</a>"
+                ],
+                "photo_reference": "Aap_uECer6X9mB-AAAVCEcguEM_KOMOfHXc81kGw6MjjolGCRky0p4Xsk78m07eq7Nkk4YytiZo-IiNZB4ykIPgrMTIh3V_VM5LaLlQ3CQASUPc4GK6j7vHuP908hgN_d_mrWXQCqvud0P7OeNm5KkrYmDWKZaakw-z_BsZ6FEMJ4pesdLl2",
+                "width": 3024
+            },
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104874917541056200360\">Ramez Cheaito</a>"
+                ],
+                "photo_reference": "Aap_uEBQWiEwT-pVjPW7QK8eM2JmVbc2mox3Fn4i8MH6tqBYu-ZZLwsT_DkkXsuJTKyFmNHQdX2THlJlPEj5dqBZNbU-6x1_J7ayIYJX2IiVnJr3NR3FFKgXE8iE_UoSNOwiSPc58hp6zrj4UjwOOS4KxKvGzBT7SQneu2WdosW9laiy5JcR",
+                "width": 4160
+            }
+        ],
+        "plus_code": {
+            "compound_code": "CV9R+F9 Palo Alto, CA, USA",
+            "global_code": "849VCV9R+F9"
+        },
+        "price_level": 1,
+        "rating": 2.8,
+        "reviews": [
+            {
+                "author_name": "Alicia Laduke",
+                "author_url": "https://www.google.com/maps/contrib/103958394571842287748/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjRMKW2KMUyOBPN67s1i7IYxavr45aP-PuTbqXR=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "a month ago",
+                "text": "I get lunch here regularly, it\u2019s very fresh and tasty, everyone is so sweet and caring at the store! Honestly a great place to stop by for lunch!! Thank you guys for the great service, I really appreciate it!!",
+                "time": 1646942992
+            },
+            {
+                "author_name": "whitley smith",
+                "author_url": "https://www.google.com/maps/contrib/102467706051801090498/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy9n7qAX1WKdbzwwQ07n0MHn0hBtGI2PjzKy2xu=s128-c0x00000000-cc-rp-mo",
+                "rating": 1,
+                "relative_time_description": "2 months ago",
+                "text": "My friend pulled down their mask for 2 seconds to have a bite of Ice Cream and was immediately met with yelling calling him \"disrespectful\" and telling us to leave. The man serving us was very ready to throw our sandwich away until I was able to calm him down and apologize. This is very unprofessional, all he needed to do was ask us to not eat or pull our masks down. I was startled and confused. This is not something that should happen in a professional work place and it is also something completely avoidable. There was another man eating a sandwich right behind us so clearly eating inside is okay and allowed. This shouldn't happen.",
+                "time": 1642819209
+            },
+            {
+                "author_name": "Steven Holland",
+                "author_url": "https://www.google.com/maps/contrib/106710327128325683664/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhC81t6XPsWPfa-NoJ3FGtBDJQUFv7_OCMLmYuApg=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 4,
+                "relative_time_description": "5 months ago",
+                "text": "On arrival I was greeted promptly. Service was swift. The sandwich was tasty. Just a littIe disappointed in the size of the sandwich. For the price it was definitely under weight.",
+                "time": 1635868751
+            },
+            {
+                "author_name": "Jay Johnson",
+                "author_url": "https://www.google.com/maps/contrib/106710733345203214668/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyfZStCpvmmIba53Ps8OUKcEfCZT-t0OdBL6jh9=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 3,
+                "relative_time_description": "2 months ago",
+                "text": "If this sandwich was a \"footlong\" then I'm Saq. Restaurant looked dingy in need of a deep clean for sure",
+                "time": 1644284108
+            },
+            {
+                "author_name": "John Hsu",
+                "author_url": "https://www.google.com/maps/contrib/116233386456504455514/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gi7jwhI5ceA66yUVTLUhfyQ7pcRR5WpY6PDD-bPPfc=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 1,
+                "relative_time_description": "7 months ago",
+                "text": "3 leaves of spinache, really? i asked for more spinache, i got only 2 more leaves.\n\nhow does Subway train their employees? curious.",
+                "time": 1632084412
+            }
+        ],
+        "url": "https://maps.google.com/?cid=9152682498006519970",
+        "user_ratings_total": 50,
+        "website": "https://restaurants.subway.com/united-states/ca/palo-alto/3962-middlefield-road?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=53934&utm_campaign=evergreen-2020&y_source=1_MTQ5MDQxNDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+    },
+    "status": "OK"
+}

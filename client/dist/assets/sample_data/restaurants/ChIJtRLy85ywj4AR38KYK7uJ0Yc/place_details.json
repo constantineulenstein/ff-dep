@@ -1,0 +1,316 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "3691",
+                "short_name": "3691",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "El Camino Real",
+                "short_name": "El Camino Real",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Ventura",
+                "short_name": "Ventura",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Palo Alto",
+                "short_name": "Palo Alto",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Clara County",
+                "short_name": "Santa Clara County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "94306",
+                "short_name": "94306",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">3691 El Camino Real</span>, <span class=\"locality\">Palo Alto</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">94306</span>, <span class=\"country-name\">USA</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3691 El Camino Real, Palo Alto, CA 94306, USA",
+        "formatted_phone_number": "(650) 251-9062",
+        "geometry": {
+            "location": {
+                "lat": 37.4184801,
+                "lng": -122.1328666
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.41978898029149,
+                    "lng": -122.1314157197085
+                },
+                "southwest": {
+                    "lat": 37.4170910197085,
+                    "lng": -122.1341136802915
+                }
+            }
+        },
+        "name": "Hong Kong Restaurant",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1100"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1100"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1100"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1100"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1100"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1100"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 11:00 AM \u2013 9:00 PM",
+                "Tuesday: 11:00 AM \u2013 9:00 PM",
+                "Wednesday: 11:00 AM \u2013 9:00 PM",
+                "Thursday: 11:00 AM \u2013 9:00 PM",
+                "Friday: 11:00 AM \u2013 9:00 PM",
+                "Saturday: 11:00 AM \u2013 9:00 PM",
+                "Sunday: 11:00 AM \u2013 9:00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115378800587997892653\">Dexter Wong</a>"
+                ],
+                "photo_reference": "Aap_uEB91RMvxTQlqU3RisA3mrhWlV4Zv_vRgm_Bxe2249SHYq4oPajbX_pgLnFLJmqKlz28g0Qxr76ndG90lYGZ60gs5-pESN5Q6-G2kRa2SotGixL_cEQJl3hIZGAuZJbbUDrO499_xOx2Pvrf6PzTq3SX-cav91gBD7d2xZ0MUZhhCzsm",
+                "width": 4032
+            },
+            {
+                "height": 1263,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103007298372385578599\">Ruth Rodriguez</a>"
+                ],
+                "photo_reference": "Aap_uEDDI4QcxcAktQVEMFhNTmsmBe3wU5cXJucM6RXIS_K2gp7rap3zqOeJ_f3GcHZCyQa2rjiveUp3J0c3b8Fv67mO6rt_Ib_BlrmIlvfqg2nRyNQd6p7HVkY1bvk-IeLz0SosxnN9yuL6cakw28TtWb7h88t5_Dc08C5QxTyLByUkphS6",
+                "width": 2049
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101841840058389803678\">Luis R Pacheco</a>"
+                ],
+                "photo_reference": "Aap_uED3uZH5M1tYAnzACTFVcrkZgfbPY0RJGDGXbzTjFf8y9c91pxOXJg6WvL50dUfD4Skp0x_bC_SFqAO8oTfHYqAOYyjOR3XGeCKas17hWmSOq8uENta83mEJpO_-wF3Pva5BirB0hR-8roZetDiA_8T801HQU9cvtXbDSWAQ5Is-FWcx",
+                "width": 3024
+            },
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117945612855200368664\">Hans Wolfgang Schulze</a>"
+                ],
+                "photo_reference": "Aap_uEAylCmHQca-MQB2BbwDWC8jzdItGl_2VLh4DvLgodwIVx1Ylo4QYI2PZP4DD1exVCAPtyjs4LuiFKnPJAEwP_iTqc8Ztg7dzM5BPgsWb3LQEJx-tCwSSL6F76IgUBGGASLfvtqEKKCWLAqvkhlfrHumZSOs-Ken89kuClqfZcoPpKyN",
+                "width": 4000
+            },
+            {
+                "height": 2368,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103007298372385578599\">Ruth Rodriguez</a>"
+                ],
+                "photo_reference": "Aap_uEAqrXEvp1XmB1vIN0ebLvRwuk36RgG5bD2zj4JiIbjGDNCqDjmVpz8vQb1NugZzFIkH_b4lBYt4lmE2iz6kYwRDlW_oH2t2PCezOVyXk54xQ6mqv65bZLgdLuKzF5fY0e-gMDLrbvkDzwgrN2eZ8HUtyfe8IQH9L4C7nLVRyuygZNbZ",
+                "width": 2268
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116738925873300230968\">Magnus Kwan</a>"
+                ],
+                "photo_reference": "Aap_uECoMywlryqCq5xJaCyvbAPgbO93IEb4m4GU0A07ULeMEz4yVI1E7A5F_rxSPUI0cZFSufL03ZJJz77_jpP6kx_o8rS0SImGnePWCpF4rojs8Z1qpy6Ojjv59pgjzTqg3VtsXrL4TrGO-c-eXTme02II_VysaYds5hSD9zWl2xwrumq5",
+                "width": 4032
+            },
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115460581654748544962\">Juejing Liu</a>"
+                ],
+                "photo_reference": "Aap_uED36xMZfRtdqn0DOwRRv-qcFHUhcCaPQuOM01NL2ewHNRjOdWPmcLrOR6C_ip45lQB8Xh81Op5dQseDcz2tNRjBJYjvg4OTxCF291xbhk46AC5mt13BDGMk-OqJDks0UrE8DghHswhyNHxtBEauaesFq9kk99ybmoiSDFVvrGpuaGoL",
+                "width": 4080
+            },
+            {
+                "height": 3272,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103007298372385578599\">Ruth Rodriguez</a>"
+                ],
+                "photo_reference": "Aap_uECMtSgJ92QG9qE0WpFvSMSrNjZeq47jgJTmzyzYb6cnPJ1Tv4tK2Ef5aOLR2ghUFyQSSMuzD4IMoRn8ThaFuh8501wlXukIrG2saodgxLiC523My6frFnQas_x9TrqzmMau2SfWzzpeW_6UODK9L8NGkvoHoy4MuR9gbpvHFoxQgkEF",
+                "width": 2159
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116738925873300230968\">Magnus Kwan</a>"
+                ],
+                "photo_reference": "Aap_uEBH7y5Us_hy-h0R9SLBu98pbULwgY9FdX6-FTFl2XoL5vo-FFrbZmoJflnNZnkIm-FDA9Dq1AfcXUgmsiI6dw_NnIy69iNlTEUYDkXVpkGXSogSjOtKv7FJChBwvwjxxI26fH7lP0GrmSNrzopgB8rV57dWkQ6zBI2Fn7pVc79xWVO3",
+                "width": 4032
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117336927466834142533\">Min Yang</a>"
+                ],
+                "photo_reference": "Aap_uEDTwxKM6fdmVt5JafN_2piVJhChNi1rTAy_8oiVCWfegIpnvoCC5GUb30T6VbryqmKGf04UT1oIR3UHp17jisrUywXbQFNVPXUg3aBxlHM8FcmMSyROC2qx8BjSeibQgxwaGqOda_mOrFQE5pxABBdQfBAV5-wE2EcYC2uFBHA9bE4W",
+                "width": 4032
+            }
+        ],
+        "plus_code": {
+            "compound_code": "CV98+9V Palo Alto, CA, USA",
+            "global_code": "849VCV98+9V"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reviews": [
+            {
+                "author_name": "penny Zhou",
+                "author_url": "https://www.google.com/maps/contrib/104182901265463487083/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gg1HIdQ_G7d32thGnlyuIxqVsg2uM5wpKUbaGR6pQ=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "2 weeks ago",
+                "text": "Hidden gem in PA & MV. Resumed dine in at this place, the dishes (that I normally order) still remain high quality with a decent price, compare with other local Chinese restaurants, who raised price sky high. The service still remains high quality\u2026 plate changing after crab dish. And the don\u2019t automatically add tips, which others are forcing 18-20% of tips regardless # of dinners. Of course we gave 20% tips for the lunch because of satisfaction. Highly recommend live crab with salty eggs/\u54b8\u86cb\u9ec4\u73cd\u5b9d\ud83e\udd80\ufe0f. The size of the crab is so big, my mom even asked is this one crab or one and half\ud83d\ude02. \u5e72\u7092\u725b\u6cb3is not oily as others which is good too. We will definitely do more dine-in or take out to support this restaurant. Stay in the business\ud83d\ude4f",
+                "time": 1648955906
+            },
+            {
+                "author_name": "Josephine Wong",
+                "author_url": "https://www.google.com/maps/contrib/103578589385794506302/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzwGg4n7t5W8-_hwRPuCylkmTy7hnddQLjOgBBp=s128-c0x00000000-cc-rp-mo",
+                "rating": 4,
+                "relative_time_description": "9 months ago",
+                "text": "This is the first time we came to this restaurant at this location. Pleasantly surprised ..Authentic Cantonese cookings. Tasty food.Good value.Good quality.",
+                "time": 1624837465
+            },
+            {
+                "author_name": "Allen Podell",
+                "author_url": "https://www.google.com/maps/contrib/113396784740909374466/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhVtBUngk5Zx-aeZNwu448EedFIpC2_zJH4VlXPr_8=s128-c0x00000000-cc-rp-mo-ba2",
+                "rating": 4,
+                "relative_time_description": "a month ago",
+                "text": "wor wonton is a meal, and the dumplings are very good. add a side dish, and you have a good dinner and lunch. very reliable. this will be a regular for us",
+                "time": 1647449276
+            },
+            {
+                "author_name": "Stephanie Wong",
+                "author_url": "https://www.google.com/maps/contrib/104279636003294426288/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GitmDmF1pJiMXqezpxEYLq_MRgqz3-Z9de83IhGGQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 3,
+                "relative_time_description": "8 months ago",
+                "text": "Great prices.   However portions vary bu the dish you order.   I.e.  chow fun is generous., but squid portion is very small.   Hit and miss with portion size.",
+                "time": 1628045986
+            },
+            {
+                "author_name": "Maritza Major",
+                "author_url": "https://www.google.com/maps/contrib/118409625260878601979/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyIfI6S2nz3XfPyXLRwNrXdFFxN-xcQG_XGnWli=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "3 months ago",
+                "text": "We just discovered this place recently. The food is always delicious and the service is fast for to go orders. Love the beef chow fun with bok choy, the seasonal greens, and the walnut prawns.",
+                "time": 1640646227
+            }
+        ],
+        "url": "https://maps.google.com/?cid=9786754902236119775",
+        "user_ratings_total": 466
+    },
+    "status": "OK"
+}
