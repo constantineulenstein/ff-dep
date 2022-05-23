@@ -38,12 +38,12 @@ function load_labeled_images(restaurant_details) {
 // load restaurant details data and save in an array of objects
 // each object in the array corresponds to one restaurant
 // each restaurant has multiple (labled) images
-data = [];
+let data = [];
 
 for (const i in restaurant_id_list) {
-  restaurant_details = load_restaurant_details(restaurant_id_list[i]);
-  labeled_images = load_labeled_images(restaurant_details);
-  rdata = {
+  let restaurant_details = load_restaurant_details(restaurant_id_list[i]);
+  let labeled_images = load_labeled_images(restaurant_details);
+  let rdata = {
     details: restaurant_details,
     images: labeled_images.image_array,
     image_ids: labeled_images.image_id_array,
@@ -54,13 +54,13 @@ for (const i in restaurant_id_list) {
 
 //expand array such that each entry in the array is an image
 // each image is associated with a particular restaurant_id
-data_expanded = [];
+let data_expanded = [];
 for (const i in data) {
   for (const j in data[i].images) {
     let image_id = data[i].images[j].split("/");
     image_id = image_id[image_id.length - 1].split(".")[0];
 
-    rdata = {
+    let rdata = {
       restaurant_id: data[i].details.place_id,
       image: data[i].images[j],
       image_id: data[i].image_ids[j],
@@ -71,13 +71,13 @@ for (const i in data) {
 }
 
 // filter image level array, such that there are only food images
-food_data = data_expanded.filter(function (restaurant) {
+let food_data = data_expanded.filter(function (restaurant) {
   return restaurant.labels[0] == "food";
 });
 
 // filter image level array, such that there are only ambience images
 
-ambience_data = data_expanded
+let ambience_data = data_expanded
   .filter(function (restaurant) {
     return restaurant.labels[0] == "ambience";
   })
