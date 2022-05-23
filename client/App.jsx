@@ -12,7 +12,7 @@ import SideMenu from "./components/SideMenu/SideMenu";
 
 function App() {
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <Routes>
         <Route path="/" element={<FoodFeed />} />
         <Route path="/food-feed" element={<FoodFeed />} />
@@ -32,3 +32,8 @@ function App() {
   );
 }
 export default App;
+
+
+{/* <BrowserRouter basename={window.location.pathname || ''}>
+  <Route exact path="/" component={Index} />
+</BrowserRouter> */}
