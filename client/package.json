@@ -3,7 +3,7 @@
   "homepage": "https://constantineulenstein.github.io/ff-dep",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "rm -f dist/*.js dist/*.html dist/*.css dist/*.map && npm run build",
     "deploy": "gh-pages -d dist",
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url ./"
