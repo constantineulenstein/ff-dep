@@ -33,7 +33,7 @@ function RestaurantTagSelection(props) {
       <img
         className="restaurantInfoIcon"
         id="blackTaggsIcon"
-        src="assets/icons/black-tags.svg"
+        src="/ff-dep/assets/icons/black-tags.svg"
         onClick={() => setTagsButtonClicked(true)}
       />
       {tags_screen}

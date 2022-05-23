@@ -22,7 +22,7 @@ function RestaurantDetails() {
   })[0];
 
   let main_image;
-  for (i in restaurant.image_ids) {
+  for (let i in restaurant.image_ids) {
     if (restaurant.image_ids[i] == image_number) {
       main_image = restaurant.images[i];
     }

@@ -31,7 +31,7 @@ function FavoritesTagSelection(props) {
   return (
     <div id="tagsFeedFilterIconContainer">
       <img
-        src="assets/icons/filter.svg"
+        src="/ff-dep/assets/icons/filter.svg"
         id="tagsFeedFilterIcon"
         onClick={() => setTagsButtonClicked(true)}
       />

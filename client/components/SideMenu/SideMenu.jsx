@@ -31,7 +31,7 @@ export default function SideMenu() {
     <div className="sideMenuComponent">
       <img
         className="menu-button"
-        src="assets/icons/menu.svg"
+        src="/ff-dep/assets/icons/menu.svg"
         onClick={() => setSideMenuButtonClicked(true)}
       />
       {menu}
