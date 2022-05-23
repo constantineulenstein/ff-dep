@@ -2,7 +2,7 @@
   "name": "react-package",
   "homepage": "https://constantineulenstein.github.io/ff-dep",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "rm *.js *.html *.css *.map && npm run build",
     "deploy": "gh-pages -d dist",
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url ./"
