@@ -1,0 +1,8 @@
+.sideMenuSection{
+    width: 100%;
+    margin: 5%;
+}
+
+.sideMenuSectionInactive{
+    color: grey;
+}

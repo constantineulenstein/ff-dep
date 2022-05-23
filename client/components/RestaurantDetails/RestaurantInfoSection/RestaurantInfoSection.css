@@ -1,0 +1,50 @@
+.Title-Section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Title-Section>div {
+    margin: 5vw 5vw 3vw 3vw;
+}
+
+#restaurantDetailsTitle {
+    color: var(--black);
+    font-family: var(--font-family-kumbh_sans);
+    font-size: 3vh;
+    font-style: normal;
+    font-weight: 600;
+    align-self: center;
+}
+
+#Details-Section-Outer {
+    flex-grow: 2;
+    padding-left: 3vw;
+    padding-bottom: 2vh;
+}
+#Details-Section-Inner{
+    background: #EEEEEE;
+    border-radius: 3vw 0 0 3vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.restaurantDetailsInfoText {
+    font-size: 1.7vh;
+    margin: 0.5vh;
+}
+
+.callMapIcons{
+    margin-right: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.restaurantInfoIcon{
+    width: 6vw;
+}

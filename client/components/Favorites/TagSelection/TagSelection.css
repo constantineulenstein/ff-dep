@@ -1,0 +1,20 @@
+div.listTags{
+    min-height: 30%;
+    width: 100%;
+}
+
+div.customTags {
+    min-height: 30%;
+    width: 100%;
+}
+
+.tagList{
+    margin: 1vh 2vw 1vh 2vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+ul.tagList>li{
+    margin-bottom: 1vh;
+}

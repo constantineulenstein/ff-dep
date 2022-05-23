@@ -1,0 +1,19 @@
+div.lineHeadingOuter{
+    display: flex;
+    width: 100%;
+}
+
+div.lineHeadingInner{
+    width: 85%;
+    border-bottom: 1px solid grey;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+div.lineHeadingInner>h3{
+    font-size: 2vh;
+    color: grey;
+    font-weight: 100;
+}

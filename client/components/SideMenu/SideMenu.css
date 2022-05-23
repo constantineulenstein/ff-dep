@@ -1,0 +1,36 @@
+.sideMenuComponent{
+    width: 15%
+}
+
+.sideMenuScreen {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(1, 1, 1, 0.2);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    font-family: var(--font-family-kumbh_sans);
+    font-size: 3vh;
+    z-index: 100;
+}
+
+.sideMenu{
+    width: 70%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#sideMenuAbout{
+    margin-top: auto;
+    margin-bottom: 5vh;
+    justify-self: flex-end;
+}
+
+.menu-button {
+    height: 100%;
+    width: 45%;
+    margin: 2.5vh 0vw 2vh 4vw;
+}

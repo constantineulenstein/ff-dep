@@ -1,0 +1,13 @@
+.hours {
+    width: 80vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.time {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

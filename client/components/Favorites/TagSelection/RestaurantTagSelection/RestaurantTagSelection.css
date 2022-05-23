@@ -1,0 +1,25 @@
+.restaurantTagsComponent{
+    display: flex;
+}
+
+#restaurantTagScreen{
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+#restaurantTagContainer{
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    align-self: center;
+    border-radius: 5vh;
+    padding-top: 3vh;
+    margin: 0;
+}

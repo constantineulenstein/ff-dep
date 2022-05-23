@@ -1,0 +1,50 @@
+.settingsTag{
+    min-width: 12vw;
+    height: 3.5vh;
+    border-radius: 2vw;
+    background-color: #E4E4E4;
+    padding: 2vw 4vw 2vw 4vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 2vh;
+}
+
+.fontColorGreen{color: green;}
+
+.settingTagInactive{
+    color: grey;
+}
+
+
+#distanceButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.distanceButtonIndividual {
+    background-color: #E4E4E4;
+    height: 4vh;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+}
+
+.distanceButtonLeft {
+    border-top-left-radius: 3vw;
+    border-bottom-left-radius: 3vw;
+}
+
+.distanceButtonRight {
+    border-top-right-radius: 3vw;
+    border-bottom-right-radius: 3vw;
+}
+
+.greenBackground{
+    background-color: #4CC166;
+}

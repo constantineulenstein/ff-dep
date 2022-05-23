@@ -1,0 +1,18 @@
+.Bottom-Navigation {
+    display: flex;
+    background-color: #FAF9F9;
+    justify-content: space-around;
+    align-items: center;
+    height: 5.25vh;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}
+
+.ButtonSymbol {
+    height: 6vh;
+    width: 6vw;
+}
+

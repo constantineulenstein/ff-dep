@@ -1,0 +1,15 @@
+.restaurant-details{
+    width: 100vw;
+    height: 100vh;
+    color: black;
+    font-family: var(--font-family-kumbh_sans);
+    font-style: normal;
+    font-weight: 400;
+    background-color: white;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+

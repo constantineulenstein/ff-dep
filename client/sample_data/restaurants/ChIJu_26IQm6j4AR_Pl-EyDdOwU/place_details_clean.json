@@ -1,0 +1,191 @@
+{
+    "name": "Bajis Cafe",
+    "place_id": "ChIJu_26IQm6j4AR_Pl-EyDdOwU",
+    "formatted_address": "2423 Old Middlefield Way, Mountain View, CA 94043, USA",
+    "formatted_phone_number": "(650) 967-7477",
+    "location_lat": 37.4144944,
+    "location_lng": -122.0980334,
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 2:00 PM",
+            "Tuesday: 7:00 AM \u2013 2:00 PM",
+            "Wednesday: 7:00 AM \u2013 2:00 PM",
+            "Thursday: 7:00 AM \u2013 2:00 PM",
+            "Friday: 7:00 AM \u2013 2:00 PM",
+            "Saturday: 7:00 AM \u2013 2:00 PM",
+            "Sunday: 7:00 AM \u2013 2:00 PM"
+        ]
+    },
+    "google_maps_url": "https://maps.google.com/?cid=377138123651348988",
+    "website": "https://bajiscafe.com/",
+    "price_level": 2,
+    "rating": 4.4,
+    "user_ratings_total": 979,
+    "reviews": [
+        {
+            "author_name": "Nichole Carder",
+            "author_url": "https://www.google.com/maps/contrib/118166717026281261605/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzziUJ8EE4ftSTfwbWmZfitiYGZXSUoHAf27-KI=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Staff is always SO friendly. Been coming for years and can't ever pass up the Funhouse Hangover. Perfect every time and 110% worth the ~$20.",
+            "time": 1650144419
+        },
+        {
+            "author_name": "Eric Hsiang",
+            "author_url": "https://www.google.com/maps/contrib/106890628799685691744/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhLL-sFEhqkq9x9wmYkCQY6x5bhJtT5Jtl8f-pZYg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Great small cafe. Great service with tasty food. Definitely a pleasant surprise. Reminds me very much of an old fashioned diner. It may just be an old fashioned diner. Would come back",
+            "time": 1632344950
+        },
+        {
+            "author_name": "Cheryl Bains",
+            "author_url": "https://www.google.com/maps/contrib/104663091018658973606/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjbHJLFKCpQA1Fo6o2uqBLmjBMVUqZo8MfEYnlETw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Food is fresh",
+            "time": 1599536713
+        },
+        {
+            "author_name": "Andrea M.",
+            "author_url": "https://www.google.com/maps/contrib/105845859193855281657/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GigTHxagU3XIHtkBAtVu38rGhAxjZ916dPg_BaEbIM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Excellent service and food!",
+            "time": 1600037419
+        },
+        {
+            "author_name": "Raz Lev",
+            "author_url": "https://www.google.com/maps/contrib/100813844768874977117/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjpoLx_F-sVxwcFFjN10RDAGQw-HOoHESc_rJqxpAU=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Fun menu with everything you'd want in a diner. Plenty of options for kids. The service is just outstanding, super friendly, attentive and helpful.",
+            "time": 1647023451
+        }
+    ],
+    "img_dict": {
+        "image_10": [
+            "food",
+            "prime_rib"
+        ],
+        "image_8": [
+            "food",
+            "pancakes"
+        ],
+        "image_9": [
+            "food",
+            "omelette"
+        ],
+        "image_2": [
+            "food",
+            "bruschetta"
+        ],
+        "image_3": [
+            "food",
+            "pad_thai"
+        ],
+        "image_1": [
+            "ambience",
+            "restaurant_exterior"
+        ],
+        "image_4": [
+            "ambience",
+            "brauhaus"
+        ],
+        "image_5": [
+            "ambience",
+            "food_truck"
+        ],
+        "image_7": [
+            "ambience",
+            "cantine"
+        ],
+        "image_6": [
+            "food",
+            "grilled_cheese_sandwich"
+        ]
+    }
+}

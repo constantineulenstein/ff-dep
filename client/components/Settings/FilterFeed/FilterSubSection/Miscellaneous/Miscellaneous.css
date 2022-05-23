@@ -1,0 +1,8 @@
+.misc-tag-section {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2vh;
+}

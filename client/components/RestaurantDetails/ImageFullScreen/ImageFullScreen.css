@@ -1,0 +1,29 @@
+.imageFullScreen{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.imageFullScreenNavigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.imageFullscreenIcon {
+    width: 7vw;
+    margin: 3vh;
+}
+
+.imageFullScreenImage{
+    display: block;
+    width: 100vw;
+    height: 100vw;
+    object-fit: cover;
+    position: fixed;
+    top: calc(72vh - 100vw);
+
+}

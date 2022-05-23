@@ -1,0 +1,52 @@
+.commentSec{
+    margin-top: 2vh;
+    width: 100vw;
+    height: 100%;
+}
+
+.Comment-Outer {
+    padding-bottom: 2.5vh;
+}
+
+.Comment-Outer-Left{
+    padding-right: 5vw;
+}
+
+.Comment-Outer-Right {
+    padding-left: 5vw;
+}
+
+.Comment-Inner {
+    width: 100%;
+    background: #EEEEEE;
+
+    padding-top: 1.2vh;
+    padding-bottom: 1.2vh;
+    padding-left: 2vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.UserName {
+    font-size: 1.8vh;
+    margin-bottom: 0.5vh;
+}
+
+
+.ReviewText{
+    font-size: 1.5vh;
+}
+
+.Comment-Inner-Left {
+    border-radius: 0 5vw 5vw 0px;
+}
+
+.Comment-Inner-Right {
+    border-radius: 5vw 0 0 5vw;
+}
+
+.commentSec li{
+    margin: 0;
+}

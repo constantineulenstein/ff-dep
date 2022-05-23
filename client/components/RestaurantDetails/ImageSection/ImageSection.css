@@ -1,0 +1,31 @@
+.imageSection{
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    overflow: auto;
+    flex-direction: row;
+    flex-shrink: 0;
+}
+
+#mainImage{
+    object-fit: cover;
+    width: 100vw;
+    height: 100vw;
+}
+
+.supplementImageGrid{
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.supplementImageGrid>li{
+    margin: 0;
+}
+
+.supplementImages{
+    object-fit: cover;
+    width: 33.33vw;
+    height: 33.33vw;
+}

@@ -1,0 +1,17 @@
+.settingsHeadingContainer{
+    border-top: 1px, solid grey;
+    width: 100%;
+}
+
+.settingsHeadingSubContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.settingsHeadingText{
+    color: gray;
+    font-size: 2vh;
+}

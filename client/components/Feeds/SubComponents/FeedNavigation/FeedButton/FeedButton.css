@@ -1,0 +1,23 @@
+.FeedButton{
+    background-color: #E4E4E4;
+    border-radius: 3vw;
+    height: 3.25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Food, .Ambience, .Restaurant{
+    width: 14vw;
+}
+
+.Filter, .Sorting {
+    width: 22vw;
+}
+
+.FeedButtonIcon{
+    height: 75%;
+    width: 70%;
+}
+  
+  
