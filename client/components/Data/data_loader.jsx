@@ -27,7 +27,7 @@ function load_labeled_images(restaurant_details) {
   const image_id_array = [];
   const labels_array = [];
   for (const [image_number, labels] of Object.entries(image_dict)) {
-    img = load_image(restaurant_details.place_id, image_number);
+    let img = load_image(restaurant_details.place_id, image_number);
     image_array.push(img);
     image_id_array.push(image_number);
     labels_array.push(labels);
