@@ -1,0 +1,191 @@
+{
+    "name": "The Treehouse",
+    "place_id": "ChIJw4w5aNS6j4AR9LgOtniCDno",
+    "formatted_address": "459 Lagunita Dr, Stanford, CA 94305, USA",
+    "formatted_phone_number": "(650) 723-4500",
+    "location_lat": 37.4240253,
+    "location_lng": -122.1712546,
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 9:00 PM",
+            "Sunday: 10:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "google_maps_url": "https://maps.google.com/?cid=8795110577263261940",
+    "website": "https://www.treehouseatstanford.com/",
+    "price_level": 1,
+    "rating": 4.2,
+    "user_ratings_total": 491,
+    "reviews": [
+        {
+            "author_name": "Tomu Zhao",
+            "author_url": "https://www.google.com/maps/contrib/102996703321537317342/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgyHHestLNUDb5pnM-5E3eIynhbYHKjDUayGLUCbA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "I am not a student, but the Steak fries are the best I\u2019ve had in the bay area!",
+            "time": 1647966509
+        },
+        {
+            "author_name": "Trista Shideler",
+            "author_url": "https://www.google.com/maps/contrib/109002349443144912480/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgRZ2fdSUFIqkxxnciamaPewHm6AnAWA6zazGPyGg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The Treehouse is a Stanford staple with over 30 years of service. Everyone is incredibly friendly, helpful, and the food never disappoints. Even with the new additions, there's old classics that always comfort on those long days of work and studying. My newest favorite are the Pinsas, nothing like it on campus or in the Peninsula. Grab the veggie or meat loves for a tasty experience!",
+            "time": 1635364083
+        },
+        {
+            "author_name": "Sabiha Queen",
+            "author_url": "https://www.google.com/maps/contrib/118313570283403585219/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjMiIQilYALisl17ByUoOK1B2dnMV93--6H8bBO=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "I loved this place. I had a few friends in town and we went out for KBBQ around the corner. We wanted a nightcap, and post COVID it's hard to find decent bars open late on a Sunday. I found this one and liked the aesthetic, so figured we'd give it a shot.",
+            "time": 1636605957
+        },
+        {
+            "author_name": "Ajoy Mallik",
+            "author_url": "https://www.google.com/maps/contrib/111979858510699003921/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Ggd4teOHSkiukN2XwBDp67kF4K8wEPd7FCv8akGVw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "It's awesome in quality and global coverage of cuisines",
+            "time": 1644782280
+        },
+        {
+            "author_name": "Alex Boulton",
+            "author_url": "https://www.google.com/maps/contrib/106926369795221770948/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxs9vPa3GLIN3_PFKHGvr7Ief_gNBsTrOmDNEZv=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Food is great! Closes at 8:00, not 9:00 though, as of January 2021.",
+            "time": 1642655475
+        }
+    ],
+    "img_dict": {
+        "image_10": [
+            "food",
+            "nachos"
+        ],
+        "image_8": [
+            "food",
+            "dumplings"
+        ],
+        "image_9": [
+            "food",
+            "chicken_quesadilla"
+        ],
+        "image_2": [
+            "food",
+            "huevos_rancheros"
+        ],
+        "image_3": [
+            "ambience",
+            "restaurant"
+        ],
+        "image_1": [
+            "ambience",
+            "imbiss"
+        ],
+        "image_4": [
+            "ambience",
+            "food_truck"
+        ],
+        "image_5": [
+            "food",
+            "grilled_cheese_sandwich"
+        ],
+        "image_7": [
+            "food",
+            "deviled_eggs"
+        ],
+        "image_6": [
+            "drinks",
+            "softdrink"
+        ]
+    }
+}

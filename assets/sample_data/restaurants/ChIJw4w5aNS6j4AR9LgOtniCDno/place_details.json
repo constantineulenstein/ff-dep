@@ -1,0 +1,309 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "459",
+                "short_name": "459",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Lagunita Drive",
+                "short_name": "Lagunita Dr",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Stanford",
+                "short_name": "Stanford",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Clara County",
+                "short_name": "Santa Clara County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "94305",
+                "short_name": "94305",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">459 Lagunita Dr</span>, <span class=\"locality\">Stanford</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">94305</span>, <span class=\"country-name\">USA</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "459 Lagunita Dr, Stanford, CA 94305, USA",
+        "formatted_phone_number": "(650) 723-4500",
+        "geometry": {
+            "location": {
+                "lat": 37.4240253,
+                "lng": -122.1712546
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.4253742802915,
+                    "lng": -122.1699056197085
+                },
+                "southwest": {
+                    "lat": 37.4226763197085,
+                    "lng": -122.1726035802915
+                }
+            }
+        },
+        "name": "The Treehouse",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:00 AM \u2013 9:00 PM",
+                "Tuesday: 10:00 AM \u2013 9:00 PM",
+                "Wednesday: 10:00 AM \u2013 9:00 PM",
+                "Thursday: 10:00 AM \u2013 9:00 PM",
+                "Friday: 10:00 AM \u2013 9:00 PM",
+                "Saturday: 10:00 AM \u2013 9:00 PM",
+                "Sunday: 10:00 AM \u2013 9:00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 3036,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106648514256363674053\">Fred Tomlin</a>"
+                ],
+                "photo_reference": "Aap_uEDGKCZAwJfRPg74q8Dex-DArAdf9ccUA7RjtH8dUGxY566yRtPLkX4C0BHiC9kvbyRwAlu-YWFPNJjJa1ezvk5o9kY9hF_ZbSr9vUvYbxOVxAiuQ3xA3WndWSiUAO63_RN1N5VM-Ojn99y9o-RLZvsdFgj_oQt_qM2uW67Dk2bI-SX9",
+                "width": 4048
+            },
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104103731626225911186\">Duncan O. Clements</a>"
+                ],
+                "photo_reference": "Aap_uEAcPcZkQvDg-T1IOIUb2q4dEZljbWmhSdWrTp74Oq_cAlIbD3mLm-9xSLvB9bBdCOAayDmXHEzIoOUw8kWyOdk7XKsI1MyWhuIQ8QOIQ6gpPIuPPbCo-aO8hYKZMMRsP3pqL4RBbfz9AqUiO_z9E0M8VMQobAKL94zwO4Q8Vre3PsRc",
+                "width": 4160
+            },
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104103731626225911186\">Duncan O. Clements</a>"
+                ],
+                "photo_reference": "Aap_uEAAtCLKjgUI_6Uz8vFjSo6WPg0wefQDY6Vs_voxA_yYNVW3bHVV5twqs7ysA-Z9lB-T9nCcVMTYlfWkfyJye9glXKwawZzXRtEvInp6eqVn0HhKL0HdN6ha_MTEjMiGwXjGLY90At4YV_v5mwE-el_NiYnPqbuCu3A8R9rZFUxss8Ss",
+                "width": 4160
+            },
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106190330310922955751\">Maxim Bravo</a>"
+                ],
+                "photo_reference": "Aap_uECOgAY1FGH8S1lAfLomx2vGRtIMOdQbgyZtynAjC-hLOtK098WcJYZ88zHDjWaOaXyZZlEYGr4KfR5PSLEHPqdrxK1xO6Kqke4lF0b5Vu-GhYMFMPEeXnzWT8duNxKyxv2KlvLrCv2WpbSy0Bw8npwPKkCzsJ81YUCVDXws1dmaJbfs",
+                "width": 4160
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110371788462060280274\">Victor Wang</a>"
+                ],
+                "photo_reference": "Aap_uEBunLr9AJV1ufSTXTBrW8GxLXWrm60dT2JELB89rFDIPM3qEb6HNtqJnXhAdP2qW4lEjRcASqcKGDrOIzWgL9wFILkcogbxkJb2ZOTrid8cutJuDkflgvce_dc0ftWsygHw2AZtFI_RNlIatWcINM7gzQmJTrLwJger9auUoJKc6m8D",
+                "width": 4032
+            },
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117159174063068298634\">Janette Luquez</a>"
+                ],
+                "photo_reference": "Aap_uEANzwZ2BSz4gpcUtZ6kF2brB093L0RJyvD25CwLAT2YDsNTyloXmb2i6zunv15MC3uedBfKSRFg4z79jkWQsqAuqEDnI7VW7By1cPp055rD8dVkDzP5ui11JGGjxnwIBunGtf8xqNBrjvxdrtFw0dm-sMVvhYxAZOuKsojVwTKdikJe",
+                "width": 3120
+            },
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102268132861795726983\">Vedang Vadalkar</a>"
+                ],
+                "photo_reference": "Aap_uEB7PSaY9_LXa1bPVDs3zdsfTSBitAaIOV5DLnUYhDQMzlGZwMPo0MriJ4HljIkSLUZWLzysjPE8UyISTw0_n9wuDUbYWDXcDsdzOKuirOa63AXIyPszoo58gMuQEUliwEHliELT7ksNB2DHYddd8HGFe3rhWSI-7Q4lmfxdUbmgfMQv",
+                "width": 4608
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103150086781665262495\">April Tingley</a>"
+                ],
+                "photo_reference": "Aap_uEC14Ddj5tPnSxSZCtY_1oQgmTLRfzBD2Qnxt4VXzetIlQcd7pcTax0OzUCaJU1vAJnrxIJZYF2TOm19-M-ZUm0mQLRBHCzsxjCmmaHntP7ObO4bGfxwoWiCOb8qiZiRYPqQFyG9xAxfrnx83UJpIB1lcmC8jj8iFDctnwrxW04FJ3WF",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117946985219307783313\">Bradley Immel</a>"
+                ],
+                "photo_reference": "Aap_uEAoKiwXmvUKSbeqG0lWMLzN-pnmEM7e-_NoyggMWMUCJXylb-sgMjGk9FWBWWcPUuq2TAwW-UYqjjNZL7ubDcJ-sG9VAQXWry_vr571gcj9_xejiasm4UKONnl9eTB_LKlhavhjjBUZQFtnY0uz7Hkx81T8_CjWdmR7hKVIWX0xrum7",
+                "width": 3024
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110371788462060280274\">Victor Wang</a>"
+                ],
+                "photo_reference": "Aap_uEAYVhgULZh2SGgczxy9ZdLtaQ-vPUmeif8S7KgMoGHsgKWmgR-BGOqZwMBhFk7LPS575-vqlNz_4Z3GY_o_30B-E7T5CpMTguEc-Tkkiy-4z5KrSAotkF9_3kR_cgiUSNoPxM0Crmju0jzQ6aifXqi-06pDwDfOF9pdC5gDYjnbmn8N",
+                "width": 4032
+            }
+        ],
+        "plus_code": {
+            "compound_code": "CRFH+JF Stanford, CA, USA",
+            "global_code": "849VCRFH+JF"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reviews": [
+            {
+                "author_name": "Tomu Zhao",
+                "author_url": "https://www.google.com/maps/contrib/102996703321537317342/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgyHHestLNUDb5pnM-5E3eIynhbYHKjDUayGLUCbA=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "4 weeks ago",
+                "text": "I am not a student, but the Steak fries are the best I\u2019ve had in the bay area!",
+                "time": 1647966509
+            },
+            {
+                "author_name": "Trista Shideler",
+                "author_url": "https://www.google.com/maps/contrib/109002349443144912480/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgRZ2fdSUFIqkxxnciamaPewHm6AnAWA6zazGPyGg=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "5 months ago",
+                "text": "The Treehouse is a Stanford staple with over 30 years of service. Everyone is incredibly friendly, helpful, and the food never disappoints. Even with the new additions, there's old classics that always comfort on those long days of work and studying. My newest favorite are the Pinsas, nothing like it on campus or in the Peninsula. Grab the veggie or meat loves for a tasty experience!",
+                "time": 1635364083
+            },
+            {
+                "author_name": "Sabiha Queen",
+                "author_url": "https://www.google.com/maps/contrib/118313570283403585219/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjMiIQilYALisl17ByUoOK1B2dnMV93--6H8bBO=s128-c0x00000000-cc-rp-mo",
+                "rating": 4,
+                "relative_time_description": "5 months ago",
+                "text": "I loved this place. I had a few friends in town and we went out for KBBQ around the corner. We wanted a nightcap, and post COVID it's hard to find decent bars open late on a Sunday. I found this one and liked the aesthetic, so figured we'd give it a shot.",
+                "time": 1636605957
+            },
+            {
+                "author_name": "Ajoy Mallik",
+                "author_url": "https://www.google.com/maps/contrib/111979858510699003921/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Ggd4teOHSkiukN2XwBDp67kF4K8wEPd7FCv8akGVw=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 5,
+                "relative_time_description": "2 months ago",
+                "text": "It's awesome in quality and global coverage of cuisines",
+                "time": 1644782280
+            },
+            {
+                "author_name": "Alex Boulton",
+                "author_url": "https://www.google.com/maps/contrib/106926369795221770948/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxs9vPa3GLIN3_PFKHGvr7Ief_gNBsTrOmDNEZv=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "2 months ago",
+                "text": "Food is great! Closes at 8:00, not 9:00 though, as of January 2021.",
+                "time": 1642655475
+            }
+        ],
+        "url": "https://maps.google.com/?cid=8795110577263261940",
+        "user_ratings_total": 491,
+        "website": "https://www.treehouseatstanford.com/"
+    },
+    "status": "OK"
+}

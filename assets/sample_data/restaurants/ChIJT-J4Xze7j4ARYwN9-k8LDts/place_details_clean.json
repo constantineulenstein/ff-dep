@@ -1,0 +1,251 @@
+{
+    "name": "Jing-Jing Szechwan & Hunan Gourmet",
+    "place_id": "ChIJT-J4Xze7j4ARYwN9-k8LDts",
+    "formatted_address": "443 Emerson St, Palo Alto, CA 94301, USA",
+    "formatted_phone_number": "(650) 328-6885",
+    "location_lat": 37.4450988,
+    "location_lng": -122.163178,
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1630"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 2:00 PM, 4:30 \u2013 9:00 PM",
+            "Tuesday: 11:30 AM \u2013 2:00 PM, 4:30 \u2013 9:00 PM",
+            "Wednesday: 11:30 AM \u2013 2:00 PM, 4:30 \u2013 9:00 PM",
+            "Thursday: 11:30 AM \u2013 2:00 PM, 4:30 \u2013 9:00 PM",
+            "Friday: 11:30 AM \u2013 2:00 PM, 4:30 \u2013 9:00 PM",
+            "Saturday: 4:30 \u2013 9:00 PM",
+            "Sunday: 11:30 AM \u2013 2:00 PM, 4:30 \u2013 9:00 PM"
+        ]
+    },
+    "google_maps_url": "https://maps.google.com/?cid=15784566182112985955",
+    "website": "http://www.jingjinggourmet.com/",
+    "price_level": 2,
+    "rating": 4,
+    "user_ratings_total": 206,
+    "reviews": [
+        {
+            "author_name": "Mike Robertson",
+            "author_url": "https://www.google.com/maps/contrib/106901969740374316069/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjFvHgC7QLTihfD4aEiKGUEnw2EXGRHQ5n--J05Snc=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Lovely next tier American-style Chinese food. Super friendly service and quick pickup. Been my go to for 4 years here",
+            "time": 1650180885
+        },
+        {
+            "author_name": "Juanita Ibarra",
+            "author_url": "https://www.google.com/maps/contrib/114144957747757287742/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy27P7UscupyK4fVYUAj3umZE4uMHLa2Uj1nMJc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Highly recommend their veggie egg rolls. It is the best you will ever find.",
+            "time": 1608045567
+        },
+        {
+            "author_name": "Noelle",
+            "author_url": "https://www.google.com/maps/contrib/102291659292850666927/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzawhEJ1Ub8nev8F0Apwy9mf-aYCqKrjCv1Ohvo1Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "It\u2019s been the exact same since I started going 25+ years ago. Delicious peanut spicy noodles and fried rice. Classic comfort food that always tastes the same!",
+            "time": 1623904425
+        },
+        {
+            "author_name": "Meadhbh Hamrick",
+            "author_url": "https://www.google.com/maps/contrib/103519972434925397796/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxMch9U3TgiM1N6KARKg4u7l-NylhyAq7crpoQL=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "my favourite chinese place on the peninsula. a wide variety of veggie and meat based dishes, all are great. the staff take good care of you when you're dining in.",
+            "time": 1621910243
+        },
+        {
+            "author_name": "Marvin Sommer",
+            "author_url": "https://www.google.com/maps/contrib/101483412868876304291/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxeqPJ4YMZMgnNbfIaNxkuVMve90kUMtdkCNSzi=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Nice outdoor seating. Very good lunch specials. Good service",
+            "time": 1616888883
+        }
+    ],
+    "img_dict": {
+        "image_10": [
+            "food",
+            "grilled_salmon"
+        ],
+        "image_8": [
+            "ambience",
+            "restaurant"
+        ],
+        "image_9": [
+            "food",
+            "baby_back_ribs"
+        ],
+        "image_2": [
+            "food",
+            "pad_thai"
+        ],
+        "image_3": [
+            "ambience",
+            "old_restaurant"
+        ],
+        "image_1": [
+            "ambience",
+            "restaurant_exterior"
+        ],
+        "image_4": [
+            "food",
+            "greek_salad"
+        ],
+        "image_5": [
+            "food",
+            "hot_and_sour_soup"
+        ],
+        "image_7": [
+            "ambience",
+            "food_truck"
+        ],
+        "image_6": [
+            "food",
+            "greek_salad"
+        ]
+    }
+}

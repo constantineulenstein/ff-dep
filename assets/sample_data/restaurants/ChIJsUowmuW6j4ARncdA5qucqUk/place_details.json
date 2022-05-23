@@ -1,0 +1,317 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "2000",
+                "short_name": "2000",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "El Camino Real",
+                "short_name": "El Camino Real",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Evergreen Park",
+                "short_name": "Evergreen Park",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Palo Alto",
+                "short_name": "Palo Alto",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Clara County",
+                "short_name": "Santa Clara County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "94306",
+                "short_name": "94306",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">2000 El Camino Real</span>, <span class=\"locality\">Palo Alto</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">94306</span>, <span class=\"country-name\">USA</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2000 El Camino Real, Palo Alto, CA 94306, USA",
+        "formatted_phone_number": "(650) 320-8125",
+        "geometry": {
+            "location": {
+                "lat": 37.427381,
+                "lng": -122.149213
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.4287256302915,
+                    "lng": -122.1478214197085
+                },
+                "southwest": {
+                    "lat": 37.4260276697085,
+                    "lng": -122.1505193802915
+                }
+            }
+        },
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1600"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0500"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0500"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0500"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0500"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0500"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0600"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 5:00 AM \u2013 5:00 PM",
+                "Tuesday: 5:00 AM \u2013 5:00 PM",
+                "Wednesday: 5:00 AM \u2013 5:00 PM",
+                "Thursday: 5:00 AM \u2013 5:00 PM",
+                "Friday: 5:00 AM \u2013 5:00 PM",
+                "Saturday: 6:00 AM \u2013 5:00 PM",
+                "Sunday: 6:00 AM \u2013 4:00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 2558,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113163957480451168373\">Sarah P.</a>"
+                ],
+                "photo_reference": "Aap_uEArFOmXEdvphkFg-3bAXyFD4N5pLCGdqfCvRhROnL7roWjJ8SKpt0RtCmL0ZmLoyHZ7gnB5PghyFBjn9SBHOYUFtYInGBxTj4K54_2L_En-NJMzdHd02OWlczLS4czVwbhG9m_QyHSHIbvjlmF0HQ9PmruwHXpfj_g2Kwuf57Q8BVQO",
+                "width": 5226
+            },
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112597261814074263114\">Mohammad Ali Rohani</a>"
+                ],
+                "photo_reference": "Aap_uEBDSnAJtku_-OJeszpIFbmfgV0FNssAusRBoZ4C0MYliiFaKSTPIEFG-iDUw610OeeTbn8kFgT2TZW6f1HP-4ge5x8GblKffH5UpRXrhuiiLoGEq4F0SeXCWLT8YkT5Om5hMxATmmdd0H3r8dcG9G6cKtw1Ago_8OmSWLfno9N-4y8k",
+                "width": 4000
+            },
+            {
+                "height": 546,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107859989811668652075\">Starbucks</a>"
+                ],
+                "photo_reference": "Aap_uECUrKWK80QXUHcfc_52DvWt_NM97Me70jDF8-7E6-y-98bOZwbKMH8Mpst6ofUCeGi3i98R-i_8RAbfjKO4sf9AtqvPxG-L9OWPxIAvTQAO5KzqMsrop9rq8VEScQ-yLHIBFvujjYkQjn30uapGhdfJusDOy69E7LF5UalI049POfDL",
+                "width": 502
+            },
+            {
+                "height": 794,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107859989811668652075\">Starbucks</a>"
+                ],
+                "photo_reference": "Aap_uECMlCmiiMW2-F8kiCWVGEzLpBb6QVhybaODlFNx_8Affw1E_DIf0mdy50Lvp6cdm9iIVB4tzkfEDEwGaVLqb4Au5jqBaJ4mT45-q39stPKxxSwP5YrIqZ-gxVVJ3W3g7Q_NvIb-OnYCr1ujIzYXG1c886ieDj2OrNuIfLFTOuuVr9vc",
+                "width": 1415
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106270082478937325078\">Heng</a>"
+                ],
+                "photo_reference": "Aap_uED8wBR0FHZCDx7SamRCK2YF6EsQW3JcCVMozRY4dxuk3UApPe6qtmLP0a9JLj5KMMmOPYLNZW48BkeucdOgwp_WOKXmQWSOcK2evoC-mh-VCse8DAk7pLSTGQ8OU7gn1CQqKpyz5temkFBu7DV3sHM_RaTVcMhTiBeqGYwUUAvq-G5c",
+                "width": 3024
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105663203389809550246\">Mark HK</a>"
+                ],
+                "photo_reference": "Aap_uECdc_n6Aj06Pwug9HnWmnXr0XAGySuUPSRDZZs1nHL8sT-biHw4de76CieRK4dvMjeBoqhJiJQy5-Z8u0BG4llhgpaudlKqJFoEAIzSVKtBSa013NirpIBz9O0lyfERF5_o8WboFENLFDmG07bLYSV5m6Z-azX0THHWNyD2zD2srZh1",
+                "width": 4032
+            },
+            {
+                "height": 563,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114426772597219642920\">T M</a>"
+                ],
+                "photo_reference": "Aap_uEBY0Q8HYNKgrtqWatqv7BWj4PzpO0hbLBSXgfAXuMkgnHMHlYMR38mg_GhPPeTXqtq1r880E_VfAv72ETbmMaxaFgyRdk3hsdJh_xisdCIlK5RuGYr312JFkSZNE9fOyZmbchDTOQ-TUOgS30tNXrRxcuCAahc3CfLv610Dq3PHude2",
+                "width": 1000
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110530732671928110124\">Anna Ess</a>"
+                ],
+                "photo_reference": "Aap_uEBVrHMU9-MRVzMT0cA98Rzi8i15e1LIE6PdWeVHGlLln9AvesCQC0zdgUmm4bqbknCtly6mWXpdBPvBRP4sihWYS6BVYQkA1u0objcrlRzR6C6UMKNdIad6UkRfyO9IkGAnZxis8-h7bPtE36eK2WR3tkPiwlnfsPqaf3im_gJAw75L",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108812780914979324391\">Madhu Yalamarthi</a>"
+                ],
+                "photo_reference": "Aap_uEAHuikuB8JmXAvuCQw3h7Pwslj_lhjoNeLxhjGvy6yVhmg99xzqDayGl8Aug905ubxFdNZQjg4nGPOleD5_91cKFGYDenhADOP1BZFI97VMjX0xdnjg7tF0uawK-l4LeHVg-t1Jj2Bi8lvMmYbZ85WTWqipwOw4hUcune9JYNIoIVAw",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114366584539104705557\">Edward Galimi</a>"
+                ],
+                "photo_reference": "Aap_uEDSKG8ahvrsDFr6ksinkURObXZha0qRgNOt1sxSVhB_uuOpEb68AXsGCkrKx3uZNBAs4w7DRz4XST4wJ72ACA_NpzBlrcxLQRt9CKu_RbYX8wfQsGewoML_khmDX39h6AlT5cgfsyRYuWgr0-2gov3IfF32cCpB1qB4QaePpT0zEkUl",
+                "width": 3024
+            }
+        ],
+        "plus_code": {
+            "compound_code": "CVG2+X8 Palo Alto, CA, USA",
+            "global_code": "849VCVG2+X8"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reviews": [
+            {
+                "author_name": "Teresa Garcia",
+                "author_url": "https://www.google.com/maps/contrib/107930916986767080603/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyjrl1XY_AiN3AglPhD_z089RrhlKCmxr-Uq-Bw=s128-c0x00000000-cc-rp-mo",
+                "rating": 2,
+                "relative_time_description": "5 months ago",
+                "text": "Asked to put on my mask. Actually I forgot. Was going to go get it but NO signs on doors saying it was required. So I decided to just leave!",
+                "time": 1635361550
+            },
+            {
+                "author_name": "Luis Del Aguila",
+                "author_url": "https://www.google.com/maps/contrib/106131783507966942941/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GizSeJzewpgMn-hYtH48iLcEt0I5IedluSF8siBpUM=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 1,
+                "relative_time_description": "11 months ago",
+                "text": "NO BATHROOM?\nTHIS LOCATION BLOWS\nLook at the ONE STARS smh.\nUNFRIENDLY\nI got to say the Manager is nice and capable but when he is not there forget about it!",
+                "time": 1619478751
+            },
+            {
+                "author_name": "jaileen chavez",
+                "author_url": "https://www.google.com/maps/contrib/109020614392194888352/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJz_j2BOkVxzPwr1MiKoEJdjKHwyTrvK2E8FNkRErw=s128-c0x00000000-cc-rp-mo",
+                "rating": 1,
+                "relative_time_description": "2 months ago",
+                "text": "I came to this Starbucks at 3:30 and it was closed there was no one inside, even though online it states that they closes at 5, very unprofessional.",
+                "time": 1643931969
+            },
+            {
+                "author_name": "Jennifer O",
+                "author_url": "https://www.google.com/maps/contrib/107882393594436916600/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy4K2cHnXeRcbLMBi5SMw8668NNfTBWBq4KnIA9=s128-c0x00000000-cc-rp-mo",
+                "rating": 1,
+                "relative_time_description": "a month ago",
+                "text": "Horrendous service at this location yet again. I ordered cold brew through the app. I had my friend go to pick it up for me and the person at the pickup counter says they are out of cold brew. They proceed to ignore my friend for 5 mins and when he tries to get their attention to get another drink or a refund, they say \"just a minute.\" My order was supposed to be ready 10 mins prior at this point. Another 5 mins pass, and I have to walk over there myself (~12 min walk) to deal with it because the baristas are still ignoring my friend. They make us wait in the line to order a drink for another 10 mins to get my refund. How is this place even in business??? I will never order here again. Even if gas prices are $7/gal, I will drive to a different location instead of walking to this s*** show. They practically ruined my Sunday with their HORRENDOUS customer service. I have had at least four very bad experiences with customer service at this Starbucks location now (none with any of the other Starbucks locations in this area).",
+                "time": 1647199753
+            },
+            {
+                "author_name": "Anthony Velasquez",
+                "author_url": "https://www.google.com/maps/contrib/110042279076754600598/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwiTe4Df-EB8Xu8feYgNU3sz7rxQGv2p8vvsrau=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "6 months ago",
+                "text": "Service is quick, and the coffee is what you would expect from a Starbucks.",
+                "time": 1633284549
+            }
+        ],
+        "url": "https://maps.google.com/?cid=5307945897949185949",
+        "user_ratings_total": 433,
+        "website": "https://www.starbucks.com/store-locator/store/12062/"
+    },
+    "status": "OK"
+}
