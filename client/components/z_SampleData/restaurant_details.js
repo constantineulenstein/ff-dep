@@ -9,7 +9,7 @@ import r8 from "../../sample_data/restaurants/ChIJu87f3CK7j4ARsO7lTOp9CIQ/place_
 import r9 from "../../sample_data/restaurants/ChIJw4w5aNS6j4AR9LgOtniCDno/place_details_clean.json";
 import r10 from "../../sample_data/restaurants/ChIJYRHjWf67j4ARClGtTLToHZk/place_details_clean.json";
 
-restaurant_details_data = {
+restaurant_details_data = { //added apostrophes to all the keys
   "ChIJg1ayR7iwj4ARBsM83DizgKA": r1,
   "ChIJs2q9C226j4ARohCdKz3cBH8": r2,
   "ChIJsUowmuW6j4ARncdA5qucqUk": r3,
