@@ -33,11 +33,11 @@ function RestaurantInfoSection({
           <div className="callMapIcons">
             <img
               className="restaurantInfoIcon"
-              src="/assets/icons/telephone.svg"
+              src="assets/icons/telephone.svg"
             />
             <img
               className="restaurantInfoIcon"
-              src="/assets/icons/navigation.svg"
+              src="assets/icons/navigation.svg"
             />
           </div>
         </div>

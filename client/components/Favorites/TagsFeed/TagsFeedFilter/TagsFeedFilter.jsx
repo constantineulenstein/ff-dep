@@ -6,9 +6,9 @@ import "./TagsFeedFilter.css";
 export default function TagsFeedFilter() {
   return (
     <div className="TagsFeedFilterSection">
-      <SymbolTag image_path="/assets/icons/watermelon.svg" />
-      <SymbolTag image_path="/assets/icons/house.svg" />
-      <SymbolTag image_path="/assets/icons/list.svg" />
+      <SymbolTag image_path="assets/icons/watermelon.svg" />
+      <SymbolTag image_path="assets/icons/house.svg" />
+      <SymbolTag image_path="assets/icons/list.svg" />
       <Tags children="hiii" />
       <Tags children="Favorites" />
       <Tags children="Tasty" />

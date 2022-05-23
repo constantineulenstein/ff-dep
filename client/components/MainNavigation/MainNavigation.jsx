@@ -8,13 +8,13 @@ function MainNavigation({ explore_flag }) {
       <Link to="/food-feed">
         <img
           className={"ButtonSymbol " + (explore_flag ? "SVGGreen" : "SVGGrey")}
-          src="/assets/icons/magnifier.svg"
+          src="assets/icons/magnifier.svg"
         />
       </Link>
       <Link to="/personal-tags">
         <img
           className={"ButtonSymbol " + (explore_flag ? "SVGGrey" : "SVGGreen")}
-          src="/assets/icons/star.svg"
+          src="assets/icons/star.svg"
         />
       </Link>
     </div>

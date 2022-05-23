@@ -18,7 +18,7 @@ function load_restaurant_details(restaurant_id) {
 }
 
 function load_image(restaurant_id, image_number) {
-  return `/assets/sample_data/restaurants/${restaurant_id}/photos/${image_number}.jpg`;
+  return `assets/sample_data/restaurants/${restaurant_id}/photos/${image_number}.jpg`;
 }
 
 function load_labeled_images(restaurant_details) {

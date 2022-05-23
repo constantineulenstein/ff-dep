@@ -6,7 +6,7 @@ export default function SettingsClosingSection() {
     <div className="settingsClosingSection">
       <div>
         <a href="javascript:history.back()">
-          <img id="closeCrossIcon" src="/assets/icons/cross.svg" />
+          <img id="closeCrossIcon" src="assets/icons/cross.svg" />
         </a>
       </div>
     </div>

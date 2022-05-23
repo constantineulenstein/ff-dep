@@ -32,7 +32,7 @@ function FoodTagSelection(props) {
     <div className="foodTagsComponent">
       <img
         className="SVGWhite imageFullscreenIcon"
-        src="/assets/icons/white-taggs.svg"
+        src="assets/icons/white-taggs.svg"
         onClick={() => setTagsButtonClicked(true)}
       />
       {tags_screen}

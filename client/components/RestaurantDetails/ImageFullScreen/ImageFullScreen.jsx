@@ -14,7 +14,7 @@ function ImageFullScreen(props) {
       <div className="imageFullScreenNavigation">
         <img
           className="SVGWhite imageFullscreenIcon"
-          src="/assets/icons/arrow-left.svg"
+          src="assets/icons/arrow-left.svg"
           onClick={handleClick}
         />
         <FoodTagSelection image_id={main_image} />
